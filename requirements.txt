@@ -1,3 +1,8 @@
 streamlit
 langchain_community
 langchain_groq
+langchain_core
+python-dotenv
+chromadb
+pandas
+uuid
